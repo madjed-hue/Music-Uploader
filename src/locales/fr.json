@@ -1,0 +1,39 @@
+{
+  "home": {
+    "listen": "Écoutez de la bonne musique!",
+    "musics": "Chansons"
+  },
+  "song": {
+    "comment_count": "Aucun commentaire | 1 commentaire | {count} commentaires"
+  },
+  "register": {
+    "accept": "J'accepte les conditions d'utilisation de la musique. {0} ",
+    "tos": "Conditions d'utilisation"
+  },
+  "header": {
+    "action": "s'inscrire/se connecter",
+    "logout": "Se déconnecter",
+    "about": "À propos",
+    "manage": "Gérer",
+    "french": "Français",
+    "english": "Anglais"
+  },
+  "composition": {
+    "title": "Titre de la chanson",
+    "genre": "Genre",
+    "genre_placeholder": "Entrez le genre",
+    "submit": "Soumettre",
+    "back": "Retourner"
+  },
+  "upload": {
+    "upload": "Télécharger",
+    "drop_file": "Déposez vos fichiers ici."
+  },
+  "commentsSort": {
+    "latest": "Dernière",
+    "oldest": "Ancien"
+  },
+  "manage": {
+    "my_songs": "Mes chansons"
+  }
+}

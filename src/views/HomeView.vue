@@ -34,7 +34,7 @@
           <!-- Icon -->
         </div>
         <!-- Playlist -->
-        <ol id="playlist">
+        <ol id="playlist" data-test="home-list">
           <song-item v-for="song in songs" :key="song.docID" :song="song" />
         </ol>
         <!-- .. end Playlist -->
